@@ -1,7 +1,7 @@
 ![Cover picture](https://i.ibb.co/f9y1NJD/cartoon.png)
 
 ### Hey 👋
-
+I'm a fullstack Javascript developer who enjoys learning and building cool stuff.
 - 🔭 I’m available for hire for roles frontend development.
 
 - 😄 Find out more about me: .. [My Portfolio Website](https://harriet-ayugi.onrender.com/)
