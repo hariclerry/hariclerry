@@ -1,6 +1,4 @@
-![Cover picture](https://i.ibb.co/RGGybtGN/woman-work.jpg)
-
-### Hey 👋
+# Hey 👋
 I'm a fullstack Javascript developer who enjoys learning and building cool stuff.
 - 🔭 I’m available for hire for roles frontend development.
 
