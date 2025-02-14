@@ -1,4 +1,4 @@
-![Cover picture](https://i.ibb.co/f9y1NJD/cartoon.png)
+![Cover picture](https://i.ibb.co/bMPFr89Q/woman-work.jpg)
 
 ### Hey 👋
 I'm a fullstack Javascript developer who enjoys learning and building cool stuff.
