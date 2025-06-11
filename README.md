@@ -4,7 +4,7 @@ I'm a fullstack Javascript developer who enjoys learning and building cool stuff
 
 - 😄 Find out more about me: .. [My Portfolio Website](https://harriet-ayugi.onrender.com/)
 
-- ⚡ Fun fact: Changing the world one line of code at a time
+- ⚡ Philosophy: "My code is a tool — my craft is in solving problems."
 
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/ayugi-harriet-05744b99/) 
 
